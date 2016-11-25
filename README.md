@@ -46,7 +46,7 @@
 - fisherfaces
 - lbph
 
-## 7. FaceRecognition-ex02
+## 7. FaceRecognition-ex03
 
 - 얼굴 이미지 학습(train.py)
 - 웹에서 얼굴 인식 테스트(app.py)
