@@ -37,3 +37,37 @@
 - eigenfaces
 - fisherfaces
 - lbph
+
+## 6. FaceRecognition-ex02
+
+- 얼굴 이미지 학습(train.py)
+- 웹에서 얼굴 인식 테스트(app.py)
+- eigenfaces
+- fisherfaces
+- lbph
+
+## 7. FaceRecognition-ex02
+
+- 얼굴 이미지 학습(train.py)
+- 웹에서 얼굴 인식 테스트(app.py)
+- 인식한 이미지를 보여주기
+
+## 8. FaceRecognition-ex04
+
+### 8.1 얼굴 이미지 검출(step01.py)
+
+- 얼굴 검출
+- 얼굴 자르기
+- 얼굴 저장
+
+### 8.2 얼굴 이미지 학습(step02.py)
+
+- eigenfaces
+- fisherfaces
+- lbph
+
+### 8.3 학습한 데이터 검증(step03.py)
+
+- eigenfaces
+- fisherfaces
+- lbph
